@@ -1,0 +1,7 @@
+export const TWEET = 'tweet'
+export const FETCH_TWEETS = 'fetch_tweets'
+export const FETCH_TAG = 'fetch_tag'
+export const SEARCH = 'search'
+export const LOGIN = 'login'
+export const FETCH_USERS = 'fetch_users'
+export const FETCH_USER = 'fetch_user'

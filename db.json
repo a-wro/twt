@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "pw",
+      "password": "pw"
+    }
+  ],
+  "tweets": [
+    {
+      "id": 0,
+      "text": "cze"
+    },
+    {
+      "text": "1234",
+      "id": 1
+    },
+    {
+      "text": "123",
+      "id": 2
+    },
+    {
+      "text": "123411",
+      "id": 3
+    },
+    {
+      "text": "zz",
+      "id": 4
+    },
+    {
+      "text": "vcv",
+      "id": 5
+    },
+    {
+      "text": "vgfgs",
+      "id": 6
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "tag": "some comment"
+    }
+  ]
+}
